@@ -1,5 +1,5 @@
 name: acme
-profile: playbook
+profile: example
 version: '1.0'
 config-version: 2
 
